@@ -1,0 +1,9 @@
+.win {
+  color: green;
+}
+
+.results {
+  height: 100%;
+  box-sizing: border-box;
+  overflow: scroll;
+}
